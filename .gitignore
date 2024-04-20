@@ -13,6 +13,14 @@ out
 *.iml
 .idea
 
+# vscode
+.vscode
+
+# java
+*.class
+*.jar
+*.hprof
+
 # gradle
 build
 .gradle
